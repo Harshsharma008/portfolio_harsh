@@ -1,0 +1,28 @@
+.container {
+   display: flex;
+  height: '100%';
+  width: 100%;
+  background-color: #111;
+  }
+  
+  
+  .nameContainer {
+    background-color: #111;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  overflow-x: hidden;
+    
+  }
+  
+.box{
+    background-color: #111;
+  
+  
+  flex-direction: column;
+}
+.name{
+      font-size: 10vw;
+  color: #333;
+  padding: 10px;
+}
